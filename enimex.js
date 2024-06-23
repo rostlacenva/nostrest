@@ -1,0 +1,1 @@
+this.own(publishCheckbox);
